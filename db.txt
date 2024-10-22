@@ -1,1 +1,8 @@
-coated:123:false:1d:Gamesense:LuckyHvH
+{
+username=coated
+password=123
+hascheat=Gamesense
+subscription=true
+days=30
+provider=LuckyHvH
+}
