@@ -7,7 +7,7 @@ days=30
 provider=LuckyHvH
 }
 {
-username2=testuser
+username=testuser
 password=123
 hascheat=Fatality
 subscription=false
