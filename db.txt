@@ -4,7 +4,7 @@ password=123
 hascheat=Gamesense
 subscription=true
 days=30
-provider=Esoterik
+provider=esoterik
 }
 {
 username=testuser
