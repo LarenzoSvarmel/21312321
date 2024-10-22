@@ -1,1 +1,1 @@
-coated:123:true:1d:Fatality:LuckyHvH
+coated:123:false:1d:Fatality:LuckyHvH
