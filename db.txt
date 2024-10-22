@@ -1,1 +1,1 @@
-coated:123:false:30d
+coated:123:false:1d
