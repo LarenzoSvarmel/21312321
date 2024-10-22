@@ -6,3 +6,11 @@ subscription=true
 days=30
 provider=LuckyHvH
 }
+{
+username=testuser
+password=123
+hascheat=Fatality
+subscription=false
+days=30
+provider=LuckyHvH
+}
